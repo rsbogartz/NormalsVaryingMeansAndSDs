@@ -33,4 +33,4 @@ shinyUI(fluidPage(
       plotOutput("distPlot")),
  ))
    
- ))  #Shiny Ui and fluid page
+ )  #Shiny Ui and fluid page
